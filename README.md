@@ -2,7 +2,7 @@
 
 
 - [X] Module 1 Lab - Collaboration and Github
-- [ ] Module 1 Programming Assignment - Numbers and Types
+- [X] Module 1 Programming Assignment - Numbers and Types (https://github.com/kschenk10-ivy-tech/Hello-Jupyter)
 
 
 
